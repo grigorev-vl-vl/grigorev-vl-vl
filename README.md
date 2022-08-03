@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vlad Grigorev 
 
-- 👀 I’m interested in developing new services and apps
-- 🌱 I’m currently learning Django and how web apps work
+- 🌱 SWE moving forward to MLE (NLP, Speech Synthesis)
+- 👀 MIPT BC's in Computational Physics
 - 📫 How to reach me:
 - grigorev.vv@phystech.edu
 
