@@ -3,7 +3,7 @@
 - 🌱 SWE moving forward to MLE (NLP, Speech Synthesis)
 - 👀 MIPT BC's in Computational Physics
 - 📫 How to reach me:
-- grigorev.vv@phystech.edu
+- grigoriev.vl.vl@gmail.com
 
 <!---
 grigorev-vl-vl/grigorev-vl-vl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
